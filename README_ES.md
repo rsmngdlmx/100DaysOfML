@@ -8,7 +8,7 @@ Decidí empezar este reto motivado por el asombroso trabajo de [Yesi Days](https
 
 Estas son las reglas que seguiré para este reto:
 
-1. Dedicaré por lo menos 1 hora diaria a aprender o practicar algo relacionado al Aprendizaje Automático. Me permitiré saltarme los fines de semana, pero si me salto algún otro día, comenzaré a contar nuevamente desde el día 0.
+1. Dedicaré por lo menos 1 hora diaria a aprender o practicar algo relacionado al Aprendizaje Automático. Me permitiré saltarme los fines de semana, pero si me salto algún otro día, comenzaré a contar nuevamente desde el día 1.
 2. Publicaré actualizaciones de mi progreso de manera pública en mis redes sociales tal y como lo menciono más adelante en la sección _Sigue mi progreso_. Como extensión de esta regla, también llevaré mi progreso en el reto en este repositorio.
 
 ## Archivos

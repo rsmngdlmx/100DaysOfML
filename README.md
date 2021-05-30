@@ -8,7 +8,7 @@ I've decided to start this challenge motivated by the work of the amazing [Yesi 
 
 I'll be following these rules for the challenge:
 
-1. I'll dedicate at least 1 hour daily to learn or practice something related to ML. I'll allow me to skip weekends, but if I skip any other day, I'll start counting from day 0 again.
+1. I'll dedicate at least 1 hour daily to learn or practice something related to ML. I'll allow me to skip weekends, but if I skip any other day, I'll start counting from day 1 again.
 2. I'll post public updates of my progress on my social networks as stated on the section _Follow my progress_. As an extension to this rule, I'll keep track of my progress on this repository as well.
 
 ## Files
