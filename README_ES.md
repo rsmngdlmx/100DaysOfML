@@ -1,6 +1,6 @@
 # 100 días de Aprendizaje Automático
 
-¡Hola! Este es el repositorio que estaré utilizando para documentar mi experiencia incursionando en el mundo del Aprendizaje Automático mediante el reto _100DaysOfML_. Pueden encontrar toda esta información sobre el reto en [este video](https://youtu.be/kV30fTwKrvg).
+¡Hola! Este es el repositorio que estaré utilizando para documentar mi experiencia incursionando en el mundo del Aprendizaje Automático mediante el reto _100DaysOfML_. Pueden encontrar toda esta información sobre el reto en [este video](https://youtu.be/vvkWJLP1iPc).
 
 Decidí empezar este reto motivado por el asombroso trabajo de [Yesi Days](https://github.com/yesidays). ¡Gracias por ser una inspiración para muchos, Yesi!
 

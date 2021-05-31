@@ -1,6 +1,6 @@
 # 100 days of Machine Learning
 
-Hi there! This is the repository I'll be using on my journey to exploring the world of Machine Learning through the challenge _100DaysOfML_. All the information about this challenge can also be found on [this video](https://youtu.be/kV30fTwKrvg).
+Hi there! This is the repository I'll be using on my journey to exploring the world of Machine Learning through the challenge _100DaysOfML_. All the information about this challenge can also be found on [this video](https://youtu.be/X7G1oWZzD3A).
 
 I've decided to start this challenge motivated by the work of the amazing [Yesi Days](https://github.com/yesidays). Thanks for being an inspiration for many, Yesi!
 
