@@ -22,4 +22,4 @@ Este es mi plan para lograr cubrir los puntos mencionados anteriormente (lo esta
 
 ## Lo que realmente hice
 
-Aquí agregaré lo que realmente termine haciendo durante el reto.
+- Tomé el curso [How To Get Started With Machine Learning](https://t.co/PJGrMYes0r?amp=1) por [Santiago (@svpino)](https://twitter.com/svpino) para tener una idea más clara del camino a seguir para comenzar a estudiar Aprendizaje Automático.

@@ -22,4 +22,4 @@ Here's my plan to achieve the points mentioned above (I'll update this as I make
 
 ## What I actually did
 
-I'll put here what I actually do as I progress on the challenge.
+- I took the course [How To Get Started With Machine Learning](https://t.co/PJGrMYes0r?amp=1) by [Santiago (@svpino)](https://twitter.com/svpino) to have a clearer path on how to get started with ML.
