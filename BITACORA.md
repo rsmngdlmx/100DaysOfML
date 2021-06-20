@@ -32,7 +32,7 @@ Comencé con el capítulo sobre Álgebra Lineal: revisé generalidades y caracte
 
 El día de hoy complementé la lectura del libro [Mathematics for Machine Learning por Marc Peter Deisenroth](https://amzn.to/3wzsIeO) con algunos videos que encontré en YouTube sobre operaciones internas (closures) y espacios vectoriales.
 
-Al final, terminé viendo algunos videos sobre tensores. :P
+Al final, terminé viendo algunos videos sobre tensores.
 
 ## Día 6 (junio 7, 2021)
 
@@ -54,7 +54,7 @@ Entonces, para este nuevo primer día, continué mi lectura del libro [Mathemati
 
 ## Día 2 (junio 15, 2021)
 
-Hoy continué leyendo sobre matrices: revisé operaciones básicas como adición y sustracción y realicé algunos ejemplos de ello; luego, comencé con los conceptos de matriz inversa y transpuesta.
+Hoy continué leyendo sobre matrices: revisé operaciones básicas como adición y multiplicación y realicé algunos ejemplos de ello; luego, comencé con los conceptos de matriz inversa y transpuesta.
 
 ## Día 3 (junio 16, 2021)
 
